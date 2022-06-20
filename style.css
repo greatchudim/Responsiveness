@@ -8,7 +8,7 @@
 
 html,
 body {
-  max-width: 1440px;
+  /* max-width: 1440px; */
   background-image: url(bg-intro-desktop.png);
   background-color: hsl(0, 100%, 74%);
   font-family: "Poppins";
